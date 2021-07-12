@@ -1,0 +1,9 @@
+# Change Log
+
+## 1.1.0 - 12/07/2021
+
+### Добавлена информация про (SPA-курорт)[https://github.com/luxguide/luxembourg-guide/blob/main/README.md#%D0%B4%D0%BB%D1%8F-%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0---spa]
+
+## 1.0.0 - 11.06.2021
+
+### Начальная версия
