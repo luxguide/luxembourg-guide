@@ -17,7 +17,7 @@
 Есть такое рекомендации: 
 1. Airbnb
 2. Novotel has accomodation for 4 people (5 if baby up to 2 years old)
-3. [Youth hostel](https://youthhostels.lu/en/families) has family rooms
+3. В [Youth hostel](https://youthhostels.lu/en/families) есть семейные комнаты
 4. Кемпинги (например [вот](https://nutchel.be/les-ardennes/domain) или [вот](https://www.lasapiniere.lu/en/holiday-homes/) 
 
 ## Город Люксембург
