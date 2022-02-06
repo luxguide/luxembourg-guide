@@ -18,7 +18,7 @@
 1. Airbnb
 2. Novotel has accomodation for 4 people (5 if baby up to 2 years old)
 3. [Youth hostel](https://youthhostels.lu/en/families) has family rooms
-4. Кемпинги (например [вот](https://nutchel.be/les-ardennes/domain) или [вот](https://www.lasapiniere.lu/fr/la-sapiniere/) 
+4. Кемпинги (например [вот](https://nutchel.be/les-ardennes/domain) или [вот](https://www.lasapiniere.lu/en/holiday-homes/) 
 
 ## Город Люксембург
 Центр города довольно компактный, но не стоит забывать про перепад высот. Для помощи в передвижении есть два лифта с центральной части вниз, к реке Альзетт и району Grund. Один стеклянный, с захватывающим панорамным видом.
